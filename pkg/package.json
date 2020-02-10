@@ -1,0 +1,15 @@
+{
+  "name": "audio-buffer-wasm",
+  "collaborators": [
+    "Skrytt"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "audio_buffer_wasm_bg.wasm",
+    "audio_buffer_wasm.js",
+    "audio_buffer_wasm.d.ts"
+  ],
+  "module": "audio_buffer_wasm.js",
+  "types": "audio_buffer_wasm.d.ts",
+  "sideEffects": false
+}
